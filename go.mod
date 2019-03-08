@@ -1,4 +1,4 @@
-module github.com/gernesr/signedjson
+module github.com/gernest/signedjson
 
 go 1.12
 
